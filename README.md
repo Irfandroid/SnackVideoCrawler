@@ -14,7 +14,7 @@ Internet connection to access the SnackVideo website.
 Basic knowledge of running Python scripts.
 **Installation**
 Clone or Download the Repository: If you are using a version control system, clone the repository. Otherwise, download the script file.
-
+git clone https://github.com/Irfandroid/SnackVideoCrawler.git
 
 
 Run the Script: Open your terminal or command prompt, navigate to the directory where crawler.py is located, and run the script using the following command:
