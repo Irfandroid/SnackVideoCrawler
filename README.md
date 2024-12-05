@@ -16,6 +16,8 @@ Basic knowledge of running Python scripts.
 Clone or Download the Repository: If you are using a version control system, clone the repository. Otherwise, download the script file.
 git clone https://github.com/Irfandroid/SnackVideoCrawler.git
 
+Install Dependencies: Use requirements.txt to install all the required dependencies. Run the following command:
+pip install -r requirements.txt
 
 Run the Script: Open your terminal or command prompt, navigate to the directory where crawler.py is located, and run the script using the following command:
 python crawler.py
