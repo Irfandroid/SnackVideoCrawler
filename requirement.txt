@@ -1,6 +1,4 @@
-aiohttp
 requests
-urllib3
 beautifulsoup4
 pandas
 openpyxl  # Excel export support
